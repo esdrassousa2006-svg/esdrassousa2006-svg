@@ -51,6 +51,11 @@ Tenho interesse em tecnologia, programação e desenvolvimento de projetos, busc
 ## 📫 Contato
 
 GitHub: **@esdrassousa2006-svg**
+Discord: **esdrass_.**
+Linkedin: **https://www.linkedin.com/in/esdras-sousa-silva-6a1712284/**
+Email: **Esdrassousa2006@gmail.com**
+
+
 
 ---
 
