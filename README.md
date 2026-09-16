@@ -60,7 +60,7 @@ Email: **Esdrassousa2006@gmail.com**
 ---
 ---
 
-<img src="./img/espada.png" width="100%">
+<img src="./espada.png" width="100%">
 
 --
 ⭐ Obrigado por visitar meu perfil!
