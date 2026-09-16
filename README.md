@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Esdras** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
+Olá! Meu nome é **Esdras** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul**.
 
 Tenho interesse em tecnologia, programação e desenvolvimento de projetos, buscando aprender e aprimorar minhas habilidades constantemente.
 
@@ -39,7 +39,7 @@ Tenho interesse em tecnologia, programação e desenvolvimento de projetos, busc
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Atuais Objetivos
 
 🚀 Evoluir minhas habilidades em programação  
 💡 Criar projetos próprios  
@@ -60,3 +60,5 @@ Email: **Esdrassousa2006@gmail.com**
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+![GifEspada](/GIfEspada.png)
